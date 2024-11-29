@@ -6,7 +6,7 @@ Scorers
 This project is a Flutter application designed for a technical assessment. The primary objective is to develop a detailed "Match Details" screen that replicates a given Figma design, showcasing various UI components and functionality for an engaging user experience.
 
 ## Objective
-TThe objective of this assessment is to evaluate your ability to implement a complex UI, handle state management, and integrate dynamic data within a Flutter app. The focus is on the following components:
+TThe objective of this assessment is to evaluate my ability to implement a complex UI, handle state management, and integrate dynamic data within a Flutter app. The focus is on the following components:
 
 Header section with match details
 Momentum graph for match performance
@@ -24,7 +24,7 @@ Match Incidents: A scrollable list of match events (e.g., goals, yellow cards, s
 The project utilizes Bloc state management to handle data updates and interactivity, ensuring that UI elements reflect changes in real-time.
 
 ## Data Integration
-Mock JSON data is used to populate all UI components, ensuring realistic data rendering without relying on backend integration during the assessment phase.
+Mock JSON data is used to populate all UI components, ensuring realistic data rendering without relying on backend integration during the assessment phase. The only exception is the match incidents section, which leverages a different approach to display event data dynamically and accurately within the UI.
 
 ## Design Fidelity
 The UI layout matches the provided Figma design in terms of:
@@ -47,7 +47,7 @@ The project uses the following dependencies:
 
 Flutter SDK: Ensure you have Flutter 3.24.4 or compatible version installed.
 Bloc: State management library for handling UI state.
-Json serializable and build runner
+Json serializable and Build runner
 
 ## Assumptions and Limitations
 Mock Data: The app uses mock data for demonstration purposes. Integrating real backend data is not part of this assessment but can be done for further functionality.
