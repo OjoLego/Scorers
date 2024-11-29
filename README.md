@@ -8,8 +8,8 @@ This project is a Flutter application designed for a technical assessment. The p
 ## Objective
 TThe objective of this assessment is to evaluate my ability to implement a complex UI, handle state management, and integrate dynamic data within a Flutter app. The focus is on the following components:
 
-Header section with match details
-Momentum graph for match performance
+* Header section with match details
+* Momentum graph for match performance
 Penalty shootout outcomes
 Match incidents list with timestamps and event icons
 
