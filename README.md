@@ -1,6 +1,6 @@
 
 # Project Title
-EasyFood App
+Scorers
 ## About
 This is an open source food application developed to help users with collection of recipes, instructions, and information about the preparation and serving of foods.
 Customers can browse the entire catalog of food items available to them through the app and get its food recipes.
@@ -22,16 +22,8 @@ Get access to menus, photos, links and all the other essential information you n
 
 Click on the youtube icon to access a video tutorial of the meal on youtube
 
-## Contributors
-Mohammed Nawas - https://github.com/mohammednawas8
-
-Joseph Simon - https://github.com/okezino
 ## Screenshots
 
-![Screenshot_2023-03-17-01-00-18-348_com example easyfood](https://user-images.githubusercontent.com/105458022/225779142-729fc7b6-07ff-4853-b195-d8134be8f2fb.jpg)
-
-![Screenshot_2023-03-17-01-01-07-528_com example easyfood](https://user-images.githubusercontent.com/105458022/225779361-1e345a8d-ed73-4017-b7c1-4a8c845fa9f2.jpg)
-
-![Screenshot_2023-03-17-01-01-58-467_com example easyfood](https://user-images.githubusercontent.com/105458022/225779437-d2fb4d36-81ff-4450-9d63-992bcc1ab7e8.jpg)
-
-![Screenshot_2023-03-17-01-01-36-718_com example easyfood](https://user-images.githubusercontent.com/105458022/225779477-d11c84c5-8649-4c50-948f-57da7a708ccc.jpg)
+![FBE19359-1081-4100-A10B-509E03642A0B_4_5005_c](https://github.com/user-attachments/assets/b25fc4c9-1100-41e3-a284-5c85a8b9bb9b)
+![BE1518BA-9091-4946-9DF8-EF301E83D40A_4_5005_c](https://github.com/user-attachments/assets/59c430a7-70d1-43b5-b57e-931cd3d5b4ae)
+![7E220081-F614-4D4C-8ECC-3080D4A38EC9_4_5005_c](https://github.com/user-attachments/assets/0d2a025d-c2f4-4fd4-ae38-7bd1140d7928)
