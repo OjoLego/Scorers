@@ -36,7 +36,7 @@ Alignment
 ## Installation Instructions
 To run this project locally, follow these steps:
 
-Clone the repository: git clone <repository_url>
+Clone the repository: git clone https://github.com/OjoLego/Scorers.git
 Navigate to the project directory: cd scorers
 Install dependencies: flutter pub get
 Run the application: flutter run
