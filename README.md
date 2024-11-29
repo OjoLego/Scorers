@@ -27,7 +27,7 @@ The project utilizes Bloc state management to handle data updates and interactiv
 Mock JSON data is used to populate all UI components, ensuring realistic data rendering without relying on backend integration during the assessment phase. The only exception is the match incidents section, which leverages a different approach to display event data dynamically and accurately within the UI.
 
 ## Design Fidelity
-* The UI layout matches the provided Figma design in terms of:
+The UI layout matches the provided Figma design in terms of:
 
 * Typography
 * Spacing
