@@ -1,6 +1,7 @@
 
 # Project Title
 Scorers
+
 ## Project Overview
 This project is a Flutter application designed for a technical assessment. The primary objective is to develop a detailed "Match Details" screen that replicates a given Figma design, showcasing various UI components and functionality for an engaging user experience.
 
