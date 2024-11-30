@@ -6,7 +6,7 @@ Scorers
 This project is a Flutter application designed for a technical assessment. The primary objective is to develop a detailed "Match Details" screen that replicates a given Figma design, showcasing various UI components and functionality for an engaging user experience.
 
 ## Objective
-TThe objective of this assessment is to evaluate my ability to implement a complex UI, handle state management, and integrate dynamic data within a Flutter app. The focus is on the following components:
+The objective of this assessment is to evaluate my ability to implement a complex UI, handle state management, and integrate dynamic data within a Flutter app. The focus is on the following components:
 
 * Header section with match details
 * Momentum graph for match performance
