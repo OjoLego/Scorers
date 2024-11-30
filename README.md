@@ -61,10 +61,10 @@ Below are some screenshots of the Match Details screen:
 
 ![BE1518BA-9091-4946-9DF8-EF301E83D40A_4_5005_c](https://github.com/user-attachments/assets/59c430a7-70d1-43b5-b57e-931cd3d5b4ae)
 
+![7E220081-F614-4D4C-8ECC-3080D4A38EC9_4_5005_c](https://github.com/user-attachments/assets/0d2a025d-c2f4-4fd4-ae38-7bd1140d7928)
+
 ## Download APK
 You can download the latest APK file from this [Google Drive link](https://drive.google.com/file/d/1DgXxB3DiUU4UABV0AK3JcFkgBiknhk9k/view?usp=sharing).
-
-![7E220081-F614-4D4C-8ECC-3080D4A38EC9_4_5005_c](https://github.com/user-attachments/assets/0d2a025d-c2f4-4fd4-ae38-7bd1140d7928)
 
 ## Future Enhancements
 * Integrate real-time data fetching using a backend API.
